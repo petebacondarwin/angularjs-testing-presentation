@@ -1,3 +1,4 @@
+
 describe('average function', function() {
   var average;
   

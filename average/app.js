@@ -1,3 +1,6 @@
+
+
+
 function average(values) {
   
   // Check if values is an array

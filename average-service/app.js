@@ -1,3 +1,4 @@
+
 angular.module('average-app', [])
 
 .factory('average', function() {

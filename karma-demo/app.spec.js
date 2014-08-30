@@ -17,6 +17,8 @@ describe('MainCtrl controller', function() {
     mainCtrl = $controller('MainCtrl', { $scope: $scope, limitChars: limitCharsSpy });
     
   }));
+
+
   
   it('should attach the limitChars service to the scope', function() {
     
@@ -24,6 +26,8 @@ describe('MainCtrl controller', function() {
     expect($scope.limitChars).toBe(limitCharsSpy);
   
   });
+  
+
   
   
   describe('updateMessage method', function() {

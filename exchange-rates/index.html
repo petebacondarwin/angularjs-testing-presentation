@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Exchange Rates Demo - 4</title>
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />
+
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/angular-sanitize/angular-sanitize.js"></script>
+  <script src="lib/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+
+  <script src="src/app.js"></script>
+  <script src="src/decimal-places.js"></script>
+  <script src="src/open-exchange-rates.js"></script>
+</head>
+<body ng-app="app" class="container" ng-controller="AppController">
+
+  <form class="form">
+    <legend>Currency Exchange Rate Converter</legend>
+
+    <div class="control-group">
+      <label class="control-label">From</label>
+      <div class="controls">
+        <input
+          ng-model="from.value"
+          ng-change="updateValue(from, to)"
+          decimal-places="2"
+          class="input-small">
+        <input
+          typeahead="currency as currency.label for currency in currencies | filter : $viewValue"
+          ng-model="from.currency"
+          placeholder="Please Enter a Currency..."
+          class="input-xlarge">
+      </div>
+    </div>
+
+    <div class="control-group">
+      <label class="control-label">To</label>
+      <div class="controls">
+        <input
+          ng-model="to.value"
+          ng-change="updateValue(to, from)"
+          decimal-places="2"
+          class="input-small">
+        <input
+          typeahead="currency as currency.label for currency in currencies | filter : $viewValue"
+          ng-model="to.currency"
+          placeholder="Please Enter a Currency..."
+          class="input-xlarge">
+      </div>
+    </div>
+
+  </form>
+
+</body>
+</html>

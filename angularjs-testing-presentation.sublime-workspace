@@ -1,0 +1,1236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comput",
+				"computeIdsProcessor"
+			],
+			[
+				"succe",
+				"successcb"
+			],
+			[
+				"reso",
+				"resourceMock"
+			],
+			[
+				"Inject",
+				"injector"
+			],
+			[
+				"angular-",
+				"angularjs-mongolab"
+			],
+			[
+				"config",
+				"configureInjector"
+			],
+			[
+				"confi",
+				"configureInjector"
+			],
+			[
+				"getIn",
+				"getInjector"
+			],
+			[
+				"dgen",
+				"dgeniConfig"
+			],
+			[
+				"orig",
+				"originalLocation"
+			],
+			[
+				"NG",
+				"NG_ENABLE_DEBUG_INFO"
+			],
+			[
+				"relaod",
+				"reloadWithDebugInfo"
+			],
+			[
+				"getA",
+				"getAliasesFactory"
+			],
+			[
+				"ge",
+				"getDocFromAlias"
+			],
+			[
+				"alas",
+				"aliasMapFactory"
+			],
+			[
+				"moc",
+				"mockLogFactory"
+			],
+			[
+				"ali",
+				"aliasMapFactory"
+			],
+			[
+				"get",
+				"getDocFromAliasFactory"
+			],
+			[
+				"match",
+				"matchingModules"
+			],
+			[
+				"matc",
+				"matchingModules"
+			],
+			[
+				"par",
+				"getPartialIds"
+			],
+			[
+				"idtem",
+				"idTemplateMap"
+			],
+			[
+				"dataBd",
+				"dataBindings"
+			],
+			[
+				"compi",
+				"compileProvider"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"isolc",
+				"isolateScopeNoTemplate"
+			],
+			[
+				"enable",
+				"enableDebugInfo"
+			],
+			[
+				"enab",
+				"enableDebugInfo"
+			],
+			[
+				"dep",
+				"deployments"
+			],
+			[
+				"ger",
+				"generateProtractorTestsProcessorFactory"
+			],
+			[
+				"mai",
+				"manifestDoc"
+			],
+			[
+				"ma",
+				"manifestDoc"
+			],
+			[
+				"manif",
+				"manifestDoc"
+			],
+			[
+				"man",
+				"manifestDoc"
+			],
+			[
+				"crea",
+				"createDocMessageSpy"
+			],
+			[
+				"extr",
+				"extraParameters"
+			],
+			[
+				"exam",
+				"examples"
+			],
+			[
+				"as",
+				"assignment"
+			],
+			[
+				"logic",
+				"logicalOR"
+			],
+			[
+				"logia",
+				"logicalOR"
+			],
+			[
+				"custo",
+				"customEvent"
+			],
+			[
+				"current",
+				"currentBinding"
+			],
+			[
+				"bindin",
+				"bindingText"
+			],
+			[
+				"cure",
+				"currentBinding"
+			],
+			[
+				"curr",
+				"currentBinding"
+			],
+			[
+				"depl",
+				"deployment"
+			],
+			[
+				"de",
+				"deployment"
+			],
+			[
+				"runnable",
+				"runnableExample"
+			],
+			[
+				"outp",
+				"outputPathTemplate"
+			],
+			[
+				"alre",
+				"already-here"
+			],
+			[
+				"deplo",
+				"deploymentQualifier"
+			],
+			[
+				"proces",
+				"processExample"
+			],
+			[
+				"mock",
+				"mockJsdocPackage"
+			],
+			[
+				"deply",
+				"deploymentQualifier"
+			],
+			[
+				"ngdo",
+				"ngdocPackage"
+			],
+			[
+				"computeP",
+				"computePathProcessor"
+			],
+			[
+				"comp",
+				"compileProvider"
+			],
+			[
+				"com",
+				"compileProvider"
+			],
+			[
+				"mo",
+				"mongolabResourceHttp"
+			],
+			[
+				"ang",
+				"angularjs-mongolab"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"pathTe",
+				"pathTemplate"
+			],
+			[
+				"pathTem",
+				"pathTemplates"
+			],
+			[
+				"outputP",
+				"outputPathTemplateMap"
+			],
+			[
+				"out",
+				"outputPathTemplateMap"
+			],
+			[
+				"inter",
+				"interceptedResponse"
+			],
+			[
+				"secu",
+				"securityRetryQueue"
+			],
+			[
+				"hash",
+				"hashchange"
+			],
+			[
+				"has",
+				"hashchange"
+			],
+			[
+				"phone",
+				"phonecatControllers"
+			],
+			[
+				"mani",
+				"manifestDoc"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"enc",
+				"encodeCodeBlock"
+			],
+			[
+				"deb",
+				"debugDumpProcessor"
+			],
+			[
+				"r",
+				"runnableExample"
+			],
+			[
+				"temp",
+				"templateSets"
+			],
+			[
+				"relat",
+				"relativePath"
+			],
+			[
+				"cont",
+				"containerDocs"
+			],
+			[
+				"tagd",
+				"tagDef"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"dsc",
+				"description"
+			],
+			[
+				"creat",
+				"createDocMessageFactory"
+			],
+			[
+				"cret",
+				"createDocMessageFactory"
+			],
+			[
+				"tagDef",
+				"tagDefs"
+			],
+			[
+				"create",
+				"createDocMessage"
+			],
+			[
+				"original",
+				"originalError"
+			],
+			[
+				"DocErr",
+				"DocErrorFactory"
+			],
+			[
+				"DocE",
+				"DocErrorFactory"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"modu",
+				"moduleOutputPathTemplate"
+			],
+			[
+				"type",
+				"typeInlineTagDef"
+			],
+			[
+				"getTy",
+				"getTypeClassSpy"
+			],
+			[
+				"getT",
+				"getTypeClassSpy"
+			],
+			[
+				"filter",
+				"filterFn"
+			],
+			[
+				"write",
+				"writeFilesProcessor"
+			],
+			[
+				"run",
+				"runBefore"
+			],
+			[
+				"propert",
+				"propertiesToIgnore"
+			],
+			[
+				"ign",
+				"ignoreWordsFile"
+			],
+			[
+				"curre",
+				"currentVersion"
+			],
+			[
+				"errorN",
+				"errorNamespaceMap"
+			],
+			[
+				"nams",
+				"namespaceDoc"
+			],
+			[
+				"names",
+				"namespaceDoc"
+			],
+			[
+				"name",
+				"namespaceDoc"
+			],
+			[
+				"min",
+				"minerrInfoPath"
+			],
+			[
+				"def",
+				"defaultDeployment"
+			],
+			[
+				"tra",
+				"trimIndentationFactory"
+			],
+			[
+				"trim",
+				"trimIndentation"
+			],
+			[
+				"trime",
+				"trimIndentationImpl"
+			],
+			[
+				"mar",
+				"markedNunjucksTag"
+			],
+			[
+				"te",
+				"templateFinder"
+			],
+			[
+				"templateD",
+				"templateFinder"
+			],
+			[
+				"findTe",
+				"findTemplateSpy"
+			],
+			[
+				"templ",
+				"templateFinder"
+			],
+			[
+				"api",
+				"apiDocsPath"
+			],
+			[
+				"apiD",
+				"apiDocsProcessor"
+			],
+			[
+				"part",
+				"partialNameMapFactory"
+			],
+			[
+				"tagD",
+				"tagDefFactory"
+			],
+			[
+				"partial",
+				"partialNameMap"
+			],
+			[
+				"proce",
+				"processorFactory"
+			],
+			[
+				"template",
+				"templateEngine"
+			],
+			[
+				"filt",
+				"filter-ngdocs"
+			],
+			[
+				"compute",
+				"compute-id"
+			],
+			[
+				"getLin",
+				"getLinkInfoSpy"
+			],
+			[
+				"codeT",
+				"codeTagFactory"
+			],
+			[
+				"parti",
+				"partialNamesMap"
+			],
+			[
+				"getP",
+				"getPartialNamesFactory"
+			],
+			[
+				"parse",
+				"parseCodeNameFactory"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"for",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation"
+	],
+	"file_history":
+	[
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/exchange-rates/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/button/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/average-service/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/average/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/button/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/exchange-rates/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/limitChars/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/Testing in AngularJS.pdf",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib/jasmine-1.3.1/jasmine-html.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib/jasmine-1.3.1/jasmine.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib/jasmine-1.3.1/jasmine.css",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/limitChars/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/karma-demo/karma.conf.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/karma-demo/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates - 5/test.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates - 5/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib/twitter-bootstrap-2.3.2/bootstrap-combined.min.css",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates/test/app.spec.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates/src/app.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates/index.html",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/ExchangeRates/test.html",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/processors/computeIds.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/processors/computePaths.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/processors/debugDumpProcessor.spec.js",
+		"/Users/pete/dev/angular/presentations/angularjs-testing-presentation/average-service/app.js",
+		"/Users/pete/dev/angular/ngSourceMapper/ngSourceMapper.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/services/templateFinder.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/index.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/services/trimIndentation.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/services/encodeCodeBlock.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/services/createDocMessage.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/services/aliasMap.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/mockPackage.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/getInjector.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/package.json",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/fixtures/baseInjector.js",
+		"/Users/pete/dev/dgeni/dgeni/lib/Dgeni.js",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/common/security/login/login-toolbar.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/src/common/services/crud.js",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/common/services/crud.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/app/admin/users/admin-users-list.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/src/common/directives/crud/edit.js",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/common/directives/crud/edit.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/users/admin-users-list.js",
+		"/Users/pete/dev/angular/angular-app/client/bower_components/angularjs-mongolab/src/angular-mongolab.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/sprints/sprints-edit.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/sprints/tasks/tasks-edit.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/sprints/tasks/tasks.js",
+		"/Users/pete/dev/angular/angular-app/client/src/common/resources/backlog.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/productbacklog/productbacklog-edit.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/common/security/interceptor.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/users/users-edit.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/projects/projects-edit.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/common/security/login/toolbar.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/common/security/login/form.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/sprints/tasks/tasks-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/sprints/sprints-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/productbacklog/productbacklog-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/users/users-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/projects/projects-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/dashboard/dashboard.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/projects/projects-list.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/src/app/header.tpl.html",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/app/admin/projects/admin-projects.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/test/unit/common/services/exceptionHandler.spec.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/projects/admin-projects.js",
+		"/Users/pete/dev/angular/angular-app/client/src/common/services/exceptionHandler.js",
+		"/Users/pete/dev/angular/angular-app/client/src/app/admin/users/admin-users-edit.js",
+		"/Users/pete/dev/angular/angular-app/client/src/index.html",
+		"/Users/pete/dev/angular/angular.js/src/ng/filter/limitTo.js",
+		"/Users/pete/dev/angular/angular.js/src/ng/filter/filters.js",
+		"/Users/pete/dev/angular/angular.js/src/ng/directive/input.js",
+		"/Users/pete/dev/angular/angular-app/client/dist/index.html",
+		"/Users/pete/dev/angular/angular-app/client/src/common/security/interceptor.js",
+		"/Users/pete/dev/angular/angular-app/client/gulpfile.js",
+		"/Users/pete/dev/angular/angular-app/client/bower.json",
+		"/Users/pete/dev/angular/angular.js/docs/config/templates/protractorTests.template.js",
+		"/Users/pete/dev/angular/angular.js/protractor-shared-conf.js",
+		"/Users/pete/dev/angular/angular.js/node_modules/protractor/lib/clientsidescripts.js",
+		"/Users/pete/dev/angular/angular.js/build/docs/ptore2e/example-input-directive/jqlite_test.js",
+		"/Users/pete/dev/angular/angular.js/protractor-conf.js",
+		"/Users/pete/dev/dgeni/dgeni/bin/gen-docs.js",
+		"/Users/pete/dev/angular/angular.js/node_modules/protractor/lib/protractor.js",
+		"/Users/pete/dev/angular/angular.js/docs/content/guide/$location.ngdoc",
+		"/Users/pete/dev/angular/angular.js/build/docs/ptore2e/example-example49/jqlite_test.js",
+		"/Users/pete/dev/angular/angular.js/build/docs/examples/example-example105/script.js",
+		"/Users/pete/dev/angular/angular.js/src/ng/directive/select.js",
+		"/Users/pete/dev/angular/angular.js/docs/content/guide/module.ngdoc",
+		"/Users/pete/dev/angular/angular.js/build/docs/ptore2e/example-example105/jquery_test.js",
+		"/Users/pete/dev/angular/angular.js/test/ng/compileSpec.js",
+		"/Users/pete/dev/angular/angular.js/src/ng/compile.js",
+		"/Users/pete/dev/angular/angular.js/scripts/clean-shrinkwrap.js",
+		"/Users/pete/dev/dgeni/dgeni/spec/Dgeni.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/base/spec/beforeEach.spec.js",
+		"/Users/pete/dev/angular/angular.js/src/Angular.js",
+		"/Users/pete/dev/angular/angular.js/test/ng/locationSpec.js",
+		"/Users/pete/dev/angular/angular.js/test/AngularSpec.js",
+		"/Users/pete/dev/angular/angular.js/src/.jshintrc",
+		"/Users/pete/dev/angular/angular.js/src/AngularPublic.js",
+		"/Users/pete/dev/angular/angular.js/docs/app/src/docs.js",
+		"/Users/pete/dev/angular/angular.js/test/ngRoute/routeSpec.js",
+		"/Users/pete/dev/angular/angular.js/src/ngScenario/dsl.js",
+		"/Users/pete/dev/angular/angular.js/src/ng/directive/attrs.js",
+		"/Users/pete/dev/angular/angular.js/test/ApiSpecs.js",
+		"/Users/pete/dev/angular/angular-seed/.jshintrc",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/interpolate-filter.js",
+		"/Users/pete/dev/angular/angular-seed/.travis.yml",
+		"/Users/pete/dev/angular/angular-seed/app/view2/view2.js",
+		"/Users/pete/dev/angular/angular-seed/app/view2/view2_test.js",
+		"/Users/pete/dev/angular/angular-seed/e2e-tests/protractor-conf.js",
+		"/Users/pete/dev/angular/angular-seed/package.json",
+		"/Users/pete/dev/angular/angular-seed/app/view1/view1.js",
+		"/Users/pete/dev/angular/angular-seed/app/view1/view1_test.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/version.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/interpolate-filter_test.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/version-directive_test.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/version_test.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/version/version-directive.js",
+		"/Users/pete/dev/angular/angular-seed/app/index.html",
+		"/Users/pete/dev/angular/angular-seed/karma.conf.js",
+		"/Users/pete/dev/angular/angular-seed/app/index-async.html",
+		"/Users/pete/dev/angular/angular-seed/README.md",
+		"/Users/pete/dev/angular/angular-seed/test/karma.conf.js",
+		"/Users/pete/dev/angular/angular-seed/app/components/filters/interpolate.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/ngdoc/services/getLinkInfo.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/ngdoc/spec/index.spec.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/ngdoc/index.js",
+		"/Users/pete/dev/dgeni/dgeni-packages/ngdoc/spec/services/getLinkInfo.spec.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/pete/dev/angular/presentations/angularjs-testing-presentation, -/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib/*",
+			"/Users/pete/dev/angular/presentations/angularjs-testing-presentation, -/Users/pete/dev/angular/presentations/angularjs-testing-presentation/lib",
+			"/Users/pete/dev/angular/presentations/angularjs-testing-presentation",
+			"/Users/pete/dev/angular/angular-app/client/src",
+			"/Users/pete/dev/angular/angular-app/client",
+			"/Users/pete/dev/angular-app/",
+			"/Users/pete/dev/angular-app",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/docs/content",
+			"/Users/pete/dev/angular/angular.js/node_modules/protractor/lib",
+			"/Users/pete/dev/angular/angular.js",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/docs",
+			"/Users/pete/dev/angular/angular.js/node_modules/protractor/lib/",
+			"/Users/pete/dev/angular/angular.js/node_modules/protractor/lib/*.js",
+			"/Users/pete/dev/angular/angular.js/node_modules/protractor/**/*.js",
+			"/Users/pete/dev/angular/angular.js/node_modules/protractor",
+			"/Users/pete/dev/angular/angular.js/",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/angular/angular-seed/app",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/dgeni/dgeni-packages, -*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/test, -*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js, -*/node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni-packages, -*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/dgeni/dgeni-packages,/Users/pete/dev/dgeni/dgeni,-*/node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni-packages,-*/node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni,-*/node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-packages,/Users/pete/dev/dgeni/dgeni,-*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/docs/config, /Users/pete/dev/dgeni/dgeni-packages,,-*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/src/ngScenario",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/docs/config, /Users/pete/dev/dgeni/dgeni-packages,,-*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/docs, /Users/pete/dev/dgeni/dgeni-packages,,-*/node_modules/*",
+			"/Users/pete/dev/angular/angular.js/docs, /Users/pete/dev/dgeni/dgeni-packages,,-node_modules",
+			"/Users/pete/dev/angular/angular.js/docs, /Users/pete/dev/dgeni/dgeni-packages, -node_modules/*",
+			"/Users/pete/dev/angular/angular.js/docs, /Users/pete/dev/dgeni/dgeni-packages, -node_modules",
+			"/Users/pete/dev/angular/angular.js/docs",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/angular/angular.js/docs/config",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/angular/angular.js, -node_modules/",
+			"/Users/pete/dev/dgeni/dgeni-packages/ngdoc",
+			"/Users/pete/dev/dgeni/dgeni-packages/examples",
+			"/Users/pete/dev/dgeni/dgeni-packages/jsdoc",
+			"/Users/pete/dev/dgeni/dgeni-packages/base",
+			"/Users/pete/dev/angular/angular-app/client",
+			"/Users/pete/dev/angular/angular-app/client,-bower_components/*",
+			"/Users/pete/dev/angular/angular-app/client,-bower_components",
+			"/Users/pete/dev/angular/angular-app/client",
+			"/Users/pete/dev/angular-app/client, -node_modules/",
+			"/Users/pete/dev/angular/angular.js, -node_modules/",
+			"/Users/pete/dev/angular/angular.js",
+			"/Users/pete/dev/dgeni/dgeni-example/node_modules",
+			"/Users/pete/dev/dgeni/dgeni-packages,-node_modules/",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/angular/angular.js/docs",
+			"/Users/pete/dev/dgeni/dgeni-packages,-node_modules/",
+			"/Users/pete/dev/angular/angular.js/docs",
+			"/Users/pete/dev/dgeni/dgeni-packages,-node_modules/",
+			"/Users/pete/dev/angular/angular.js/docs",
+			"/Users/pete/dev/dgeni/dgeni-packages,-node_modules/",
+			"/Users/pete/dev/angular/angular.js/src, /Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/angular/angular.js",
+			"/Users/pete/dev/dgeni/dgeni-packages,-node_modules/",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-packages/",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-packages/jsdoc/tag-defs",
+			"<open folders>",
+			"/usr/local/lib/node_modules/bower/lib/core",
+			"/Users/pete/dev/angular/angular-phonecat/app/phones",
+			"/Users/pete/dev/dgeni,-node_modules/*",
+			"/Users/pete/dev/dgeni, -node_modules",
+			"/Users/pete/dev/dgeni, -node_module",
+			"/Users/pete/dev/angular-v2/projects/node_modules/templating/src",
+			"/Users/pete/dev/angular-v2/projects,-node_modules/*",
+			"/Users/pete/dev/angular-v2/projects; -node_modules/*",
+			"/Users/pete/dev/angular-v2/projects; -node_modules",
+			"/Users/pete/dev/angular-v2/projects/scripts",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angularjs.org",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/src, -node_modules/*",
+			"/Users/pete/dev/angular/angular.js/stc, -node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni, -node_modules/*",
+			"/Users/pete/dev/dgeni/dgeni",
+			"/Users/pete/dev/dgeni/dgeni-packages, -node_modules/",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-packages/base",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-example",
+			"/Users/pete/dev/dgeni/dgeni/lib",
+			"/Users/pete/dev/dgeni/dgeni/spec",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni/spec",
+			"/Users/pete/dev/dgeni/dgeni/lib",
+			"/Users/pete/dev/dgeni/dgeni/spec",
+			"/Users/pete/dev/dgeni/dgeni/lib",
+			"/Users/pete/dev/dgeni/dgeni",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/dgeni/dgeni-packages",
+			"/Users/pete/dev/dgeni/dgeni-packages/ngdoc",
+			"/Users/pete/dev/dgeni/dgeni-packages/jsdoc",
+			"/Users/pete/dev/angular/angular.js",
+			"/Users/pete/dev/angular/angular.js/src/ng/directive",
+			"/Users/pete/dev/angular/angular.js/src",
+			"/Users/pete/dev/angular/angular.js/test",
+			"/Users/pete/dev/angular/angular.js/src/ng",
+			"/Users/pete/dev/angular/angular.js/src/ng/directive",
+			"/Users/pete/dev/angular/angular.js/docs/content/guide",
+			"/Users/pete/dev/angular/foodme2/app/js",
+			"/Users/pete/dev/dgeni/dgeni-packages"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://",
+			"http://cdn.jsdelivr.net/jasmine/1.3.1/",
+			"http://code.angularjs.org/snapshot/",
+			"http://code.angularjs.org",
+			"http://code.angularjs.org/snapshot",
+			"lib/",
+			"\"lib/",
+			"lib/",
+			"$scope.",
+			"http://code.angularjs.org/snapshot",
+			"Q",
+			"mockLog",
+			"path",
+			"getInjector",
+			"testPackage",
+			"mockLog",
+			"inject",
+			"mockLog",
+			"templateFinderFactory",
+			"mockLog",
+			"Package",
+			"$",
+			"resourceMock",
+			"$saveOrUpdate",
+			"getByIds",
+			"col-md-10",
+			"col-md-5",
+			"form-",
+			"<ul",
+			"unstyled",
+			"img",
+			"hero",
+			"icon",
+			"hidden",
+			"visible",
+			"radio",
+			"checkbox",
+			"img",
+			"img-",
+			"polaroid",
+			"muted",
+			"label-",
+			"accord",
+			"input-",
+			"controls",
+			"pill",
+			"help-inline",
+			"col-md-6",
+			"<select",
+			"btn",
+			"span(\\d+)",
+			"span\\d+",
+			"span6",
+			"class=\"span",
+			"row-fluid",
+			"error",
+			"ul",
+			"alert",
+			"\"error\"",
+			"'error'",
+			"notifications",
+			"btn-navbar",
+			"\"nav\"",
+			"ul",
+			"clean",
+			"{'name':'value'}",
+			"numbers | limitTo:numLimit",
+			"by.binding(\"{'name':'value'}\")",
+			"by.binding('color",
+			"{{user}}",
+			"clientSideScripts",
+			"no element",
+			"{'name':'value'}",
+			"selected_color:myColor",
+			"$location.protocol",
+			"by.binding",
+			"click",
+			"greeting filter",
+			"in this example we will create a greeting filter",
+			"by.binding",
+			"by.binding(\"{{",
+			"There ",
+			"dgeniConfig",
+			"processors",
+			"window",
+			"provideLog",
+			"window",
+			"provideLog",
+			"window",
+			"defineProperty",
+			"Define",
+			"DefineProperty",
+			"angularModule",
+			"modulesToLoad",
+			"createInjector",
+			"resumeBootstrap",
+			"bootstrap",
+			"navigateTo",
+			"application",
+			"reload",
+			"describe",
+			"bootstrap",
+			"scope(",
+			"scope",
+			"view1",
+			"View1",
+			"view1",
+			"describe('version module'",
+			"myApp.version",
+			"-->",
+			"jasmine.createSpy",
+			"partialIdMap",
+			"apiDocsPath",
+			"partialNameMap",
+			"partialNameMapFactory",
+			"parseCodeName",
+			"partialNameMap",
+			"PartialNames",
+			"getPartialNames",
+			"aliasNames",
+			"partialNames",
+			"partial",
+			"partials",
+			"partial",
+			"getPartialNames",
+			"currentDoc",
+			"partialIdMap",
+			"partial id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../lib/jasmine-1.3.1/",
+			"help-block",
+			"col-md-$1",
+			"col-md-\\1",
+			"col-md-$1",
+			"col-md-6",
+			"describe('myApp.version module'",
+			"",
+			"mongolabResourceHttp",
+			"$modal",
+			"bower_components",
+			"##",
+			"require('.",
+			"<",
+			"pendingDebounce",
+			"config",
+			"annotations=",
+			".range[1]",
+			".range[0]",
+			"\"",
+			"{Function=}",
+			"@param {DOMElement}",
+			"#",
+			"",
+			":@@docsPort",
+			"nput.[$1]\"],",
+			"@@docsPort",
+			"/",
+			", \"/",
+			"[\"/",
+			"],",
+			"\",",
+			"\"error/$1:$2\": \"/error/$1/$2\",",
+			"\"/error/$1/$2\",",
+			"\"api/$1.filter:$2\": \"api/$1/filter/$2\",",
+			"\"api/$1.directive:$2\": \"api/$1/directive/$2\",",
+			"\"api/$1.$2\": \"api/$1/service/$2\",",
+			"\"api/$1.$2\": \"api/$1/function/$2\",",
+			"\"api/$1\": \"api/ng/function/$1\",",
+			"\"api/$1\": \"api/ng/function/$1\"",
+			":",
+			"",
+			"\"api/$1\"",
+			"\"api/",
+			"",
+			"\"/api/ng/filter/",
+			"/input[$1].html",
+			": \"/api/ng/directive/",
+			"@name ",
+			"{@link ",
+			"auto",
+			"{@link ",
+			"</file",
+			"</file name=\"protractor.js\" type=\"protractor\"",
+			"</file",
+			"<file name=\"index.html\"",
+			"</example",
+			"<example",
+			"* @name ",
+			"@name ",
+			"outputFolder + '/",
+			"auto",
+			"@name input[$1]",
+			"@ngdoc method",
+			"",
+			"* @name ",
+			"@ngdoc method",
+			"@name ",
+			"",
+			"$1@name $2\\n$1@module ngMockE2E",
+			"",
+			"@name ",
+			"",
+			"@name $cacheFactory",
+			"$1:$2",
+			"$1\\n$2@module ng",
+			"[$2]($1)",
+			"$1",
+			"type:",
+			"type:form.FormController",
+			"type:$compile.directive.Attributes",
+			"type:$rootScope.Scope",
+			"type:angular.Module",
+			"@name $2#$1",
+			"@name $1#$2",
+			"partial-names",
+			"partial-name",
+			"#",
+			"link(partialNames)",
+			"@link function:",
+			".function:",
+			"",
+			"it",
+			"api",
+			"area",
+			"</code>",
+			"<code>",
+			"```",
+			"@name",
+			"@name $1.$2",
+			"auto",
+			"runAfter:",
+			"@ngdoc tutorial",
+			"@name",
+			"tags.getTag('ngdoc')",
+			"xdescribe",
+			"'../../../rendering/filters",
+			"{% endcode %}",
+			"{% code %}",
+			"memberof",
+			"\"",
+			"'",
+			"\"",
+			"@name ",
+			"{@link module:ng",
+			"{@link module:ngCookies",
+			"{@link module:ngResource",
+			"{@link module:ngAnimate",
+			"{@link module:ngRoute",
+			"plugin",
+			"{@link #",
+			"@link ",
+			"$sce",
+			"{@link module:ng.",
+			"@methodOf ",
+			"@name ",
+			"{@link module:AUTO.",
+			"@methodOf global:angular.Module"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "angularjs-testing-presentation.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/angular.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 863.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
